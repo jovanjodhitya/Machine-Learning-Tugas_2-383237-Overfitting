@@ -186,7 +186,7 @@ public class Main {
 
             }
 
-            // Ini untuk print error saat testing
+            // Ini untuk print error saat learning
             System.out.println("Learning: " + df.format(error));
 
             // Untuk print angka only (comment out yang lain dulu)
